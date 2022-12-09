@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snofty
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning reactive java programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
